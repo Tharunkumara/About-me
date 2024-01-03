@@ -1,4 +1,4 @@
-# About-me
+Hi 👋 I'm Tharun!
 I'am a Google Certified Data Analyst.
 I'm a data enthusiast who is passionate about using data analysis to uncover hidden patterns and resolve challenging issues. I recently finished my post-graduate study in business at Humber College, I previously worked for Amazon as a Catalog Analyst/Associate and I'm currently looking for a full time data analyst role.
 
